@@ -1,5 +1,20 @@
+:root {
+    --menu-green: #009B72;
+    --menu-red: #B4654A;
+    --menu-turquoise: #2EBFA5;
+    --menu-pink: #EB9FEF;
+    --menu-orange: #DC602E;
+    --menu-blue: #1C77C3;
+
+    --menu-color: var(--menu-red);
+}
+
+body {
+    background-color: #F1DAC4;
+}
+
 .menu .row .shape {
-    background-color: aqua;
+    background-color: var(--menu-color);
     min-width: 60px;
     height: 60px;
     float: left;
@@ -9,7 +24,7 @@
 
 .menu .row .shape-init {
     position: absolute;
-    background-color: aqua;
+    background-color: var(--menu-color);
     min-width: 60px;
     height: 60px;
     float: left;
