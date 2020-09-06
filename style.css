@@ -48,3 +48,12 @@ body {
     font-family: 'Montserrat', sans-serif;
     text-align: justify;
 }
+
+.title {
+    margin-left: auto;
+    margin-right: 15px;
+    display: flex;
+    align-items:center;
+    justify-content:center;
+    font-size: 25px;
+}
