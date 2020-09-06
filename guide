@@ -1,0 +1,6 @@
+Div o klasie "container" ma do 1140px
+Div o klasie "container-fluid" ma 100%
+
+W bootstrapie możemy stworzyć do 12 kolumn. Na przykładzie
+<div class="row">
+    <div class="col-sm-12">

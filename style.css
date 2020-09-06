@@ -1,0 +1,31 @@
+.menu {
+    background-color: blue;
+}
+
+.menu .row .shape {
+    background-color: aqua;
+    min-width: 60px;
+    height: 60px;
+    float: left;
+    transform: skew(-20deg);
+    padding: 10px;
+}
+
+.menu .row .shape .s-context {
+    transform: skew(20deg);
+    display: flex;
+    margin: auto;
+    align-items:center;
+    justify-content:center;
+}
+
+.menu .row .shape .s-context img {
+    height: 40px;
+    width: 40px;
+}
+
+.site-context {
+    margin-top: 30px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: justify;
+}
