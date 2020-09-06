@@ -57,3 +57,14 @@ body {
     justify-content:center;
     font-size: 25px;
 }
+
+.footer {
+    text-align: center;
+    display: flex;
+    align-items:center;
+    justify-content:center;
+
+    background-color: var(--menu-color);
+    height: 35px;
+    margin-top: 20px;
+}
