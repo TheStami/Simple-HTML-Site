@@ -1,6 +1,6 @@
 # Simple HTML Site
 
-It's simple html site to simple texts e.g. project to school.
+It's simple html site to simple texts e.g. project to school.  
 DEMO: https://thestami.github.io/Simple-HTML-Site/
 
 ## Instalation
