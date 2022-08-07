@@ -12,7 +12,7 @@ Edit style.css file and modify menu and footer color:
 ```css
 --menu-green
 --menu-red
---menu-turquoise;
+--menu-turquoise
 --menu-pink
 --menu-orange
 --menu-blue
